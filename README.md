@@ -5,7 +5,17 @@ Here you’ll find some of my featured projects showcasing skills in Excel, Powe
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
+
+### 🔹 [Retail Sales Performance Dashboard – Maven Cycles](https://github.com/SeolheeKim7/maven-cycles-powerbi-project)
+**Focus**:  
+Developed a complete Power BI reporting solution for a retail bike shop using 8 Excel files.  
+Built a star-schema data model, delivered interactive dashboards, and used advanced visuals (Key Influencers, Clustering) to uncover business insights and drive data-based recommendations.
+
+**Skills Used**:  
+Power BI, Power Query, DAX, Data Modeling, Data Visualization
+
+---
 
 ### 🔹 [Niagara Health Patient Flow Analysis](https://github.com/SeolheeKim7/niagara_health_patient_flow/tree/main/projects/niagara_health_patient_flow)
 **Focus**:  
@@ -17,7 +27,7 @@ Excel, PivotTables, Data Cleaning, Reporting
 
 ---
 
-### 🔹 (Coming Soon) Trufulfillment Website Analytics
+### 🔹 Trufulfillment Website Analytics
 **Focus**:  
 Analyzing user engagement, website traffic, and bounce rates for an e-commerce homepage redesign.
 
@@ -35,7 +45,7 @@ SQL, Data Analysis, Dashboard Creation
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 - LinkedIn: [Seolhee Kim](https://www.linkedin.com/in/seolheekim7/)
 - GitHub: [SeolheeKim7](https://github.com/SeolheeKim7)
