@@ -47,7 +47,7 @@ SQL, Data Analysis, Dashboard Creation
 
 ## Connect with Me
 
-- LinkedIn: [Seolhee Kim](https://www.linkedin.com/in/seolheekim7/)
+- LinkedIn: [Seolhee Kim](https://www.linkedin.com/in/seolheekim83/)
 - GitHub: [SeolheeKim7](https://github.com/SeolheeKim7)
 
 ---
